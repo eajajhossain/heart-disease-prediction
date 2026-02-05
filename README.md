@@ -7,8 +7,7 @@ The model is trained using **Logistic Regression** and deployed using **Streamli
 
 ---
 
-## 🚀 Live Demo
-(Add Streamlit Cloud link here)
+
 
 ---
 
